@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 392" role="img" aria-labelledby="title desc">
+  <title id="title">Mafia — Persian Telegram role distributor</title>
+  <desc id="desc">Night-themed banner with gold gift boxes hiding player roles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/><stop offset=".54" stop-color="#121a32"/><stop offset="1" stop-color="#1d1730"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff1b4"/><stop offset=".42" stop-color="#efbd66"/><stop offset="1" stop-color="#a86e29"/>
+    </linearGradient>
+    <linearGradient id="gift" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#374d6b"/><stop offset="1" stop-color="#1a2a47"/>
+    </linearGradient>
+    <linearGradient id="giftHi" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#52658a"/><stop offset="1" stop-color="#253957"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#a47745" stop-opacity=".34"/><stop offset="1" stop-color="#a47745" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" patternUnits="userSpaceOnUse" width="48" height="48">
+      <path d="M48 0H0V48" fill="none" stroke="#cbd5e1" stroke-opacity=".04"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="392" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="392" rx="22" fill="url(#grid)"/>
+  <circle cx="986" cy="186" r="270" fill="url(#glow)"/>
+  <path d="M56 64H125" stroke="#d7a961" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="137" cy="64" r="3" fill="#e4b96d"/>
+  <text x="56" y="122" fill="#b6c4d9" font-size="20" letter-spacing="4" font-family="Arial, Helvetica, sans-serif" font-weight="700">PERSIAN TELEGRAM BOT</text>
+  <text x="50" y="246" fill="url(#gold)" font-size="136" letter-spacing="4" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900">MAFIA</text>
+  <text x="57" y="294" fill="#f1f5f9" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="600">Secret roles. Random seats. One phone.</text>
+  <text x="57" y="333" fill="#99a9c3" font-size="18" letter-spacing="2" font-family="Arial, Helvetica, sans-serif">TELEGRAM SERVERLESS · JAVASCRIPT</text>
+  <g opacity=".45" stroke="#bbcedd" fill="none" stroke-width="2">
+    <circle cx="709" cy="73" r="9"/><path d="M707 60V49M709 88V103M696 74H681M723 74H740"/>
+    <circle cx="1138" cy="304" r="8"/><path d="M1138 288V275M1138 320V333M1123 304H1110M1153 304H1166"/>
+    <path d="M762 325l5 -8 5 8 8 4 -8 4 -5 8 -5 -8 -8 -4z"/>
+  </g>
+  <g transform="translate(754 94) rotate(-9 73 104)" opacity=".63">
+    <rect x="0" y="35" width="145" height="191" rx="17" fill="url(#gift)" stroke="#9eb3c4" stroke-opacity=".26" stroke-width="2"/>
+    <rect x="16" y="53" width="113" height="154" rx="9" fill="#111d34" stroke="#869bb9" stroke-opacity=".2"/>
+    <text x="72" y="155" text-anchor="middle" fill="#c6d2e0" font-size="85" font-family="Georgia,serif">?</text>
+  </g>
+  <g transform="translate(995 113) rotate(11 66 102)" opacity=".7">
+    <rect x="0" y="22" width="134" height="189" rx="16" fill="url(#giftHi)" stroke="#93a3c8" stroke-opacity=".34" stroke-width="2"/>
+    <rect x="12" y="34" width="110" height="165" rx="8" fill="#111d34" stroke="#869bb9" stroke-opacity=".22"/>
+    <text x="67" y="141" text-anchor="middle" fill="#dce4ef" font-size="82" font-family="Georgia,serif">?</text>
+  </g>
+  <g transform="translate(860 42)">
+    <rect x="0" y="40" width="189" height="250" rx="20" fill="#0b1629" opacity=".82"/>
+    <rect x="8" y="33" width="173" height="235" rx="16" fill="url(#giftHi)" stroke="#d9ad67" stroke-width="3"/>
+    <rect x="20" y="46" width="149" height="209" rx="10" fill="#19263e"/>
+    <path d="M94 44V256" stroke="url(#gold)" stroke-width="22" opacity=".95"/>
+    <path d="M20 120H169" stroke="url(#gold)" stroke-width="20" opacity=".95"/>
+    <path d="M92 60C60 41 56 12 81 11C94 10 99 25 95 47C102 18 118 9 132 22C148 42 124 57 95 62" fill="none" stroke="url(#gold)" stroke-linecap="round" stroke-width="13"/>
+    <rect x="57" y="147" width="75" height="76" rx="15" fill="#182139" stroke="#e7bd78" stroke-width="2"/>
+    <text x="94" y="205" text-anchor="middle" fill="#f6e4b3" font-size="64" font-family="Georgia, serif" font-weight="bold">?</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="390" rx="21" fill="none" stroke="#c3af80" stroke-opacity=".16" stroke-width="2"/>
+</svg>

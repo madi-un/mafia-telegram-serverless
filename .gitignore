@@ -1,13 +1,19 @@
+# Telegram Serverless CLI state and credentials
 .tgcloud/
 
-# Node.js dependencies
+# Dependencies and generated output
 node_modules/
+dist/
 
-# Environment variables
+# Secrets and local settings
 .env
 .env.*
 !.env.example
+*.key
+*.pem
 
-# Generated files
-dist/
+# Local debugging and build artifacts
 *.log
+.DS_Store
+
+AGENTS.md
