@@ -1,0 +1,13 @@
+.tgcloud/
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Generated files
+dist/
+*.log
